@@ -1,0 +1,9 @@
+{
+  "name": "portfolio-ridho",
+  "version": 1,
+  "public": true,
+  "buildCommand": "echo 'Build complete'",
+  "framework": "static",
+  "cleanUrls": false,
+  "trailingSlash": false
+}
